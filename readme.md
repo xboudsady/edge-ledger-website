@@ -1,1 +1,1 @@
-![showcase](img/screenshot/showcase.png)
+![what we do](img/screenshot/what-we-do-section.png)
