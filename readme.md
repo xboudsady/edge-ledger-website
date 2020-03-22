@@ -1,1 +1,1 @@
-![what we do](img/screenshot/what-we-do-section.png)
+![site-screenshot](img/screenshot/site-screenshot.png)
